@@ -1,0 +1,27 @@
+.form-bg{
+    background-color: rgba(226, 241, 240, 0.822);
+}
+.headerSec {
+    background: url("../../house/Rectangle13.png") no-repeat center right/cover;
+    height: 60vh;
+    color: #fff; }
+    .headerSec .headerMain {
+      text-align: center;
+      padding-top: 20%; }
+  
+      .detailsSec{
+        background: url("../../house/Rectangle13.png") no-repeat center right/cover;
+        height: 40vh;
+        color: #fff; }
+  
+        .detImg{
+          width: 600px;
+        }
+  
+        .subSecDetail img{
+          width:100px;
+        }
+
+        .form-control{
+          border: 1px solid black;
+        }

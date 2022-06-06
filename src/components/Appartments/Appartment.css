@@ -1,0 +1,69 @@
+.p {
+  padding-top: 28px;
+  text-align: center;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  letter-spacing: 0.0015em;
+
+  color: #275a53;
+}
+.h {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 50px;
+  /* or 147% */
+
+  text-align: center;
+  letter-spacing: 0.0015em;
+
+  color: #16322e;
+  margin-bottom: 55px;
+}
+.details-button {
+  background: #275a53;
+}
+.price {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 30px;
+  /* identical to box height, or 83% */
+
+  letter-spacing: 0.0015em;
+
+  color: #275a53;
+}
+.cardTitle {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.0015em;
+
+  color: #16322e;
+}
+.cardText {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  letter-spacing: 0.0015em;
+
+  color: #747474;
+}
+.div-holder {
+  padding-left: 200px;
+  padding-right: 137px;
+}

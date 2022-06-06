@@ -1,0 +1,43 @@
+.footer {
+  margin-top: 42px;
+  background: #275a53;
+  padding-top: 77px;
+  padding-left: 130px;
+  padding-right: 100px;
+}
+.location-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.0015em;
+
+  color: #ffffff;
+}
+.p-head {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 34px;
+  /* identical to box height, or 170% */
+
+  letter-spacing: 0.0015em;
+
+  color: #ffffff;
+}
+.p-body {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 34px;
+  /* or 212% */
+
+  letter-spacing: 0.0015em;
+
+  color: #ffffff;
+}

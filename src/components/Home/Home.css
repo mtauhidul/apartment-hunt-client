@@ -1,0 +1,50 @@
+.home-bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.747)),
+    url("../../assets/home-bg.png");
+  height: 554px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 105px;
+}
+.input-div {
+  text-align: center;
+}
+.input-box {
+  width: 536px;
+  height: 50px;
+  left: 384px;
+  top: 323px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+  padding-left: 23px;
+  background: #f1f6f4;
+  border: none;
+  border-radius: 5px;
+}
+.find-button {
+  width: 163px;
+  height: 50px;
+  left: 938px;
+  top: 323px;
+  border: none;
+  background: #275a53;
+  border-radius: 5px;
+  color: #fff;
+}
+@media only screen and (max-width: 600px) {
+  .home-bg {
+    background-size: contain;
+  }
+  .input-box {
+    width: auto;
+  }
+}

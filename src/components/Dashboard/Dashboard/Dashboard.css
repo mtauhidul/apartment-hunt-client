@@ -1,0 +1,60 @@
+/* Dashboard Styles */
+
+.main-logo{
+    margin-left: 30px;
+}
+.dashboard-top{
+    height: 70px;
+    padding-top: 20px;
+}
+.main-container{
+    background: #F4F7FC;
+    height: 505px;
+    min-height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+.db-list-container{
+    padding-top: 20px;
+    padding-left: -1px;
+}
+.db-list-container ul{
+    display: inline;
+} 
+.none-style{
+    border: none !important;
+    color: black !important;
+    font-weight: 500;
+}
+.none-style:hover{
+    text-decoration: none;
+    color: #275A53 !important;
+}
+
+.none-style:active{
+    color:  #275A53;
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .upload-btn {
+    border: 2px solid #009444;
+    color:#009444;
+    background-color: #DEFFED;
+    padding: 4px 12px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
